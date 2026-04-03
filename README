@@ -1,0 +1,21 @@
+#Loan Prediction System
+This project is a *Machine Learning* application that predicts whether a loan applicant is eligible for a loan based on
+their personal and financial details. It uses historical data to train a classification model to automate the
+loan approval process.
+#Overview
+The goal of this project is to help financial institutions minimize the risk of loan defaults by identifying
+high-risk applicants early in the process.
+##  Tech Stack
+* Language: Python
+* Libraries: Pandas (Data Manipulation)
+    * NumPy (Numerical Computing)
+    * Scikit-Learn (Machine Learning Models)
+    * Matplotlib / Seaborn (Data Visualization)
+
+## Dataset Features
+The model analyzes the following attributes:
+* Gender, Married, Dependents
+* Education & Self-Employment status
+* Applicant & Co-applicant Income
+* Loan Amount & Loan Amount Term
+* Credit History
